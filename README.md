@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwanati
-- 👀 I’m interested in Software Developement and DevOps in general.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Kubernetes and Software Developement .
+- 🌱 I’m currently learning Go for web development and kubernetes specific applications
+- 💞️ I’m looking to collaborate on opensource opportunities
 - 📫 How to reach me ...
 
 <!---
