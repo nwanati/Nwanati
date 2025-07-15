@@ -1,6 +1,5 @@
 - 👋 Hi, I am @nwanati
-- 👀 I’m interested in Kubernetes and Software development.
-- 🌱 I’m currently learning Go for web development and kubernetes-specific applications
+- 👀 I’m interested in Kubernetes and Cloud Native Technologies for infrastructure management and automation.
 - 💞️ I’m looking to collaborate on opensource opportunities
 - 📫 How to reach me ...
 
